@@ -6,4 +6,4 @@
 📊 Data/AI enthusiast
 📖 Open-minded and curious person
 ## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baleksas&langs_count=4&show_icons=true)](https://github.com/baleksas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baleksas&theme=radical&langs_count=4&show_icons=true)](https://github.com/baleksas/github-readme-stats)
