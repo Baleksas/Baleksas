@@ -10,4 +10,4 @@
 📖 Open-minded and curious person
 </pre>
 ## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baleksas&theme=radical&langs_count=5&show_icons=true)](https://github.com/baleksas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baleksas&theme=radical&langs_count=6&show_icons=true)](https://github.com/baleksas/github-readme-stats)
