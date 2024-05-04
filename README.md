@@ -5,7 +5,7 @@
 
 🕸 Web technologies geek
 
-📊 Data/AI enthusiast
+📊 Data visualization enthusiast
 
 📖 Open-minded and curious person
 </pre>
